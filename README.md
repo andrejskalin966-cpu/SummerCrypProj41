@@ -10,7 +10,7 @@ quadratic_system.cpp/.hpp - методы решения квадратичных
 
 search_tree.cpp/.hpp - определение логики решения MQS методом обхода дерева вывода (эвристика, backtracking (backjumping) и конфликтное ограничение + правила вывода)
 
-encordings/*.mqs – папка с файлами кодировок MQS
+encodings/*.mqs – папка с файлами кодировок MQS
 
 *  необязательно
 
